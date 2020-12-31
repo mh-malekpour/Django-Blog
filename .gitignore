@@ -1,9 +1,10 @@
 # IDE stuff
 .idea/
+blog/__pycache_/
 
 # virtual envoirnment
 venv/
 
 # database
 db.sqlite3
-blog/migrations
+blog/migrations/
