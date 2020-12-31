@@ -1,2 +1,9 @@
+# IDE stuff
 .idea/
+
+# virtual envoirnment
 venv/
+
+# database
+db.sqlite3
+blog/migrations
