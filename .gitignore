@@ -1,6 +1,6 @@
 # IDE stuff
 .idea/
-blog/__pycache__/
+*__pycache__*
 
 # virtual envoirnment
 venv/
