@@ -8,3 +8,6 @@ venv/
 # database
 db.sqlite3
 blog/migrations/
+
+# Static files
+files/
